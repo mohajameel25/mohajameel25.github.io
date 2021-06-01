@@ -1,0 +1,34 @@
+
+.navbar-brand {
+   
+    line-height: 32px;
+    font-weight: bold;
+}
+
+
+.navbar-text {
+    display: block;
+    border-top: 2px solid white;
+}
+
+#presentation {
+    padding: 5rem 0;
+}
+
+#presentation h1 {
+    font-weight: bold;
+}
+
+#presentation p {
+    font-size: 1.5rem;
+}
+
+#cards {
+    margin: 3rem 0;
+}
+
+footer p {
+    padding: 1.5rem 0;
+    color: #999;
+}
+
